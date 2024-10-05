@@ -513,8 +513,10 @@ int main(int argc, char **argv)
 
 
 ## OUTPUT:
+#### WITH MEMSET()
 ![image](https://github.com/user-attachments/assets/3d964ef7-5d46-4583-92c8-7577843b6204)
 
+#### WITHOUT MEMSET()
 ![image](https://github.com/user-attachments/assets/b70dbd19-b0fd-446e-8e65-605dfb7ecf32)
 
 
